@@ -1,0 +1,1 @@
+/home/stefanie/catkin_ws_BoschMoslehi/devel/.private/catkin_tools_prebuild/setup.zsh

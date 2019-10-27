@@ -1,0 +1,6 @@
+devel_space: /home/stefanie/catkin_ws_BoschMoslehi/src/assignment2_publisher_subscriber/devel
+install: false
+install_space: /home/stefanie/catkin_ws_BoschMoslehi/src/assignment2_publisher_subscriber/install
+profile: default
+source_space: /home/stefanie/catkin_ws_BoschMoslehi/src/assignment2_publisher_subscriber/src
+workspace: /home/stefanie/catkin_ws_BoschMoslehi/src/assignment2_publisher_subscriber

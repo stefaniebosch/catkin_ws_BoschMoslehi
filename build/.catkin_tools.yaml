@@ -1,0 +1,6 @@
+devel_space: /home/stefanie/catkin_ws_BoschMoslehi/devel
+install: false
+install_space: /home/stefanie/catkin_ws_BoschMoslehi/install
+profile: default
+source_space: /home/stefanie/catkin_ws_BoschMoslehi/src
+workspace: /home/stefanie/catkin_ws_BoschMoslehi
