@@ -8,7 +8,6 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/stefanie/catkin_ws_BoschMoslehi/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/opt/ros/melodic/lib"
 export PWD="/home/stefanie/catkin_ws_BoschMoslehi/build/catkin_tools_prebuild"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/stefanie/catkin_ws_BoschMoslehi/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/stefanie/catkin_ws_BoschMoslehi/build/catkin_tools_prebuild:/home/stefanie/catkin_ws_BoschMoslehi/src/assignment2_publisher_subscriber:/opt/ros/melodic/share"
+export ROS_PACKAGE_PATH="/home/stefanie/catkin_ws_BoschMoslehi/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
